@@ -1,3 +1,7 @@
+# mentorai
+17.GRUP - HACKATHON - YZTA
+
+
 # Yol Haritası Oluşturucu
 
 Bu proje, kullanıcıların hedeflerine ulaşmak için özelleştirilmiş yol haritaları oluşturmasına yardımcı olan bir web uygulamasıdır. Google'ın Gemini API'sini kullanarak akıllı yol haritaları oluşturur.
@@ -60,7 +64,7 @@ npm start
 
 ## Kullanım
 
-1. Tarayıcınızda `http://localhost:3000` adresine gidin
+1. Tarayıcınızda `http://localhost:7000` adresine gidin
 2. Hedefinizi veya öğrenmek istediğiniz konuyu yazın
 3. "Yol Haritası Oluştur" butonuna tıklayın
 4. Oluşturulan yol haritasını inceleyin
