@@ -69,6 +69,9 @@ async def generate_roadmap(request: PromptRequest):
             }
         )
 
+        print("Gemini API Status:", response.status_code)
+        print("Gemini API Raw Response:", response.text)
+
         # Hata durumunda 500 iç hatasını dön
         if response.status_code != 200:
             print(f"Error {response.status_code}: {response.text}")  # Hata detaylarını yazdır
