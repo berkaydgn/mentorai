@@ -1,6 +1,8 @@
 # mentorai
 17.GRUP - HACKATHON - YZTA
+Giriş bilgileri: admin@test.com / 123
 
+main.py içerisindeki generate_content_url bu görünümde olmalı = https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY
 
 # Yol Haritası Oluşturucu
 
@@ -38,6 +40,8 @@ pip install -r requirements.txt
 4. `.env` dosyası oluşturun ve Gemini API anahtarınızı ekleyin:
 ```
 GEMINI_API_KEY=your_api_key_here
+GEMINI_MODEL=gemini_model_here
+GEMINI_BASE_URL=gemini_base_url_here
 ```
 
 5. Backend'i başlatın:
