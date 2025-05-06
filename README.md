@@ -1,5 +1,6 @@
 # mentorai
 17.GRUP - HACKATHON - YZTA
+
 Giriş bilgileri: admin@test.com / 123
 
 main.py içerisindeki generate_content_url bu görünümde olmalı = https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY
