@@ -5,6 +5,8 @@ Giriş bilgileri: admin@test.com / 123
 
 main.py içerisindeki generate_content_url bu görünümde olmalı = https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY
 
+Portlar: frontend 7000, backend 9000
+
 # Yol Haritası Oluşturucu
 
 Bu proje, kullanıcıların hedeflerine ulaşmak için özelleştirilmiş yol haritaları oluşturmasına yardımcı olan bir web uygulamasıdır. Google'ın Gemini API'sini kullanarak akıllı yol haritaları oluşturur.
